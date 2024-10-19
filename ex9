@@ -1,0 +1,3 @@
+string > length > hello world(source string) > sample number(assign the output(down))
+number > to string > sample number(enter a number(x)) > sample string(assign the output(down))
+message box > sample string(enter a message(x)) > save > run
